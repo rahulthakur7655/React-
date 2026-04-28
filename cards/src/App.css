@@ -1,0 +1,9 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: content-box;
+}
+#img{
+  width: 400px;
+  height: 250px;
+}
